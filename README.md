@@ -31,4 +31,4 @@ You can find the list of dependencies and installation instructions in each proj
 ## References
 1) Youtube Playlist of Dr.Hashim A.Hashim
    https://www.youtube.com/playlist?list=PLhx4zaYkEjI9yxL-Orm7uunTSWqGzUxRe
-2) Reference Book : https://www.amazon.com/Computational-Intelligence-Introduction-Andries-Engelbrecht/dp/0470035617 
+2) Reference Book : https://www.wiley.com/en-us/Computational+Intelligence%3A+An+Introduction%2C+2nd+Edition-p-9780470035610
