@@ -1,6 +1,4 @@
-# Optimization-using-Meta-Heuristics-
-
-# Optimization using Metaheuristics - Mini Projects
+# Optimization using Metaheuristics 
 
 This repository contains a collection of mini-projects focused on solving various optimization problems using metaheuristic algorithms. These projects explore applications in control systems, scheduling, machine learning, and other domains where optimization is critical. Metaheuristic techniques such as Genetic Algorithms (GA), Particle Swarm Optimization (PSO), and others are employed to tackle these problems.
 
