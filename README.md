@@ -28,3 +28,7 @@ You can find the list of dependencies and installation instructions in each proj
 - Numpy, Scipy, Matplotlib
 ---
 
+## References
+1) Youtube Playlist of Dr.Hashim A.Hashim
+   https://www.youtube.com/playlist?list=PLhx4zaYkEjI9yxL-Orm7uunTSWqGzUxRe
+2) Reference Book : https://www.amazon.com/Computational-Intelligence-Introduction-Andries-Engelbrecht/dp/0470035617 
